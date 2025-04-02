@@ -1,0 +1,10 @@
+[
+  {
+    "id": "R001",
+    "customerId": "C001",
+    "movieId": "MOV001",
+    "rentalDuration": 7,
+    "dateRented": "2025-04-02",
+    "dateReturned": null
+  }
+]
